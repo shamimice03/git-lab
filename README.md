@@ -19,7 +19,8 @@ git remote -v
 ```
 
 ### Add and Commit
-
+```
+```
 ### Diff
 ```
 # shows differences between working area and starging area
