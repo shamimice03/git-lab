@@ -6,12 +6,10 @@ git --version
 ```
 
 ### Config
-
 ```
 git config --global user.name "shamim"
 git config --global user.email "test@example.com"
 ```
-
 
 ### Initialization
 ```
@@ -21,7 +19,9 @@ git remote add origin <github-url>
 git remote -v
 ```
 
-### Initialization
+### Add and Commit
+
+### Diff
 ```
 # shows differences between working area and starging area
 git diff
