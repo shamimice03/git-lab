@@ -14,8 +14,22 @@ git config --global user.email "tester@example.com"
 ### Initialization
 ```
 git init
+
+# create new local branch
 git branch -m main
+
+# show remote origin
 git remote -v
+
+# show all remote branch
+git branch -r
+
+# show remote and local branch
+git branch --all
+
+# change branch
+git switch main
+git checkout main
 ```
 
 ### Add and Commit
