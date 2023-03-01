@@ -15,7 +15,6 @@ git config --global user.email "test@example.com"
 ```
 git init
 git branch -m main
-git remote add origin <github-url>
 git remote -v
 ```
 
