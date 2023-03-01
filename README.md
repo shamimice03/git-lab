@@ -20,6 +20,10 @@ git remote -v
 
 ### Add and Commit
 ```
+git add .
+git status
+git commit -m "initial comment"
+git push -u origin main
 ```
 ### Diff
 ```
