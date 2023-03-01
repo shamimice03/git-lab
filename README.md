@@ -20,9 +20,19 @@ git remote -v
 
 ### Add and Commit
 ```
+# add a specific file
+git add <file-name>
+
+# add all files
 git add .
+
+# check status 
 git status
+
+# commit
 git commit -m "initial comment"
+
+# push into remote git repo
 git push -u origin main
 ```
 ### Diff
