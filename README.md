@@ -42,5 +42,3 @@ git diff
 # shows differencew between starging area and local repository
 git diff --staged
 ```
-
-### TEST
